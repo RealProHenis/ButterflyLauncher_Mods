@@ -66,5 +66,22 @@
         "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.sig"
       }
     ]
+  },
+  "Dual Pump Shotguns3": {
+    "modType": "Weapon",
+    "gameVersion": "7.40",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Dual%20Pump%20Shotguns/ButterflyLauncher_DualPumpShotguns.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflyDualPumps-WindowsClient.pak",
+        "hash": "aeb53071ded88458457bf09458b873fb",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflyDualPumps-WindowsClient.sig",
+        "hash": "f6f574693f886341aae6e3f59d7d4247",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.sig"
+      }
+    ]
   }
 }
