@@ -1,7 +1,9 @@
 {
   "Fart Gun": {
     "modType": "Weapon",
-    "gameVersion": "7.40",
+    "modDescription": "A gun that shoots smelly farts",
+    "modAuthor": "Noffie",
+    "modVersion": "7.40",
     "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Fart%20Gun/ButterflyLauncher_FartGun.png",
     "files": [
       {
@@ -18,58 +20,9 @@
   },
   "Dual Pump Shotguns": {
     "modType": "Weapon",
-    "gameVersion": "7.40",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Dual%20Pump%20Shotguns/ButterflyLauncher_DualPumpShotguns.png",
-    "files": [
-      {
-        "fileName": "pakchunkButterflyDualPumps-WindowsClient.pak",
-        "hash": "aeb53071ded88458457bf09458b873fb",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.pak"
-      },
-      {
-        "fileName": "pakchunkButterflyDualPumps-WindowsClient.sig",
-        "hash": "f6f574693f886341aae6e3f59d7d4247",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.sig"
-      }
-    ]
-  },
-  "Triple Weapons": {
-    "modType": "Weapon",
-    "gameVersion": "7.40",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Dual%20Pump%20Shotguns/ButterflyLauncher_DualPumpShotguns.png",
-    "files": [
-      {
-        "fileName": "pakchunkButterflyDualPumps-WindowsClient.pak",
-        "hash": "aeb53071ded88458457bf09458b873fb",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.pak"
-      },
-      {
-        "fileName": "pakchunkButterflyDualPumps-WindowsClient.sig",
-        "hash": "f6f574693f886341aae6e3f59d7d4247",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.sig"
-      }
-    ]
-  },
-  "Quadrouple Snipers": {
-    "modType": "Weapon",
-    "gameVersion": "7.40",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Dual%20Pump%20Shotguns/ButterflyLauncher_DualPumpShotguns.png",
-    "files": [
-      {
-        "fileName": "pakchunkButterflyDualPumps-WindowsClient.pak",
-        "hash": "aeb53071ded88458457bf09458b873fb",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.pak"
-      },
-      {
-        "fileName": "pakchunkButterflyDualPumps-WindowsClient.sig",
-        "hash": "f6f574693f886341aae6e3f59d7d4247",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.sig"
-      }
-    ]
-  },
-  "Penis Weapons": {
-    "modType": "Weapon",
-    "gameVersion": "7.40",
+    "modDescription": "Pump shotguns... but better!",
+    "modAuthor": "Noffie",
+    "modVersion": "7.40",
     "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Dual%20Pump%20Shotguns/ButterflyLauncher_DualPumpShotguns.png",
     "files": [
       {
