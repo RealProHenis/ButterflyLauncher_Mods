@@ -36,5 +36,24 @@
         "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.sig"
       }
     ]
+  },
+  "Mr. Krabs": {
+    "modType": "Skin",
+    "modDescription": "I love money!!",
+    "modAuthor": "Noffie",
+    "modVersion": "any version",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Mr%20Krabs/ButterflyLauncher_MrKrabs.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflyMrKrabs-WindowsClient.pak",
+        "hash": "de1f7844bb613d54885fbbf1c4ce3ae0",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflyMrKrabs-WindowsClient.sig",
+        "hash": "f6f574693f886341aae6e3f59d7d4247",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.sig"
+      }
+    ]
   }
 }
