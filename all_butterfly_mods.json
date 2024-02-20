@@ -42,17 +42,17 @@
     "modDescription": "I love money!!",
     "modAuthor": "Noffie",
     "modVersion": "any version",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Mr%20Krabs/ButterflyLauncher_MrKrabs.png",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Mr.%20Krabs/ButterflyLauncher_MrKrabs.png",
     "files": [
       {
         "fileName": "pakchunkButterflyMrKrabs-WindowsClient.pak",
         "hash": "de1f7844bb613d54885fbbf1c4ce3ae0",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.pak"
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr.%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.pak"
       },
       {
         "fileName": "pakchunkButterflyMrKrabs-WindowsClient.sig",
         "hash": "f6f574693f886341aae6e3f59d7d4247",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.sig"
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr.%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.sig"
       }
     ]
   },
@@ -61,17 +61,17 @@
     "modDescription": "The guy from Minecraft",
     "modAuthor": "boredcrow24",
     "modVersion": "6.10, 7.30, 7.40, 8.20",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Mr%20Krabs/ButterflyLauncher_MrKrabs.png",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Steve/ButterflyLauncher_Steve.png",
     "files": [
       {
         "fileName": "pakchunkButterflySteve-WindowsClient.pak",
         "hash": "e5f41ac18b6ffd6117d395a4ad3d6eba",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.pak"
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Steve/pakchunkButterflySteve-WindowsClient.pak"
       },
       {
         "fileName": "pakchunkButterflySteve-WindowsClient.sig",
         "hash": "079be1f3b74b382cdc64e18d4e7ca8dc",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.sig"
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Steve/pakchunkButterflySteve-WindowsClient.sig"
       }
     ]
   }
