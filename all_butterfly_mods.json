@@ -42,7 +42,7 @@
     "modDescription": "I love money!!",
     "modAuthor": "Noffie",
     "modVersion": "any version",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Mr.%20Krabs/ButterflyLauncher_MrKrabs.png",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Mr.%20Krabs/ButterflyLauncher_Mod_MrKrabs.png",
     "files": [
       {
         "fileName": "pakchunkButterflyMrKrabs-WindowsClient.pak",
@@ -58,7 +58,7 @@
   },
   "Spongebob": {
     "modType": "Skin",
-    "modDescription": "The guy who lives in a pineapple",
+    "modDescription": "Lives in a pineapple under the sea",
     "modAuthor": "Unknown",
     "modVersion": "7.40",
     "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Spongebob/ButterflyLauncher_Mod_Spongebob.png",
@@ -80,7 +80,7 @@
     "modDescription": "The guy from Minecraft",
     "modAuthor": "boredcrow24",
     "modVersion": "6.10, 7.30, 7.40, 8.20",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Steve/ButterflyLauncher_Steve.png",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Steve/ButterflyLauncher_Mod_Steve.png",
     "files": [
       {
         "fileName": "pakchunkButterflySteve-WindowsClient.pak",
