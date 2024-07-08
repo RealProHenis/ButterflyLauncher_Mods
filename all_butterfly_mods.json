@@ -1,23 +1,4 @@
 {
-  "Fart Gun": {
-    "modType": "Weapon",
-    "modDescription": "A gun that shoots smelly farts",
-    "modAuthor": "Noffie",
-    "modVersion": "7.40",
-    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Fart%20Gun/ButterflyLauncher_FartGun.png",
-    "files": [
-      {
-        "fileName": "pakchunkButterflyFartGun-WindowsClient.pak",
-        "hash": "4a972bb2037be32d243bd8580abfdb1bd70dd1df8adf4b9cf7c13f2345b8a24c",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Fart%20Gun/pakchunkButterflyFartGun-WindowsClient.pak"
-      },
-      {
-        "fileName": "pakchunkButterflyFartGun-WindowsClient.sig",
-        "hash": "5dc757fd023395c63ef01679531c126ca7c3dfd6258fdb3e913977442e33e177",
-        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Fart%20Gun/pakchunkButterflyFartGun-WindowsClient.sig"
-      }
-    ]
-  },
   "Dual Pump Shotguns": {
     "modType": "Weapon",
     "modDescription": "Pump shotguns... but better!",
@@ -37,6 +18,25 @@
       }
     ]
   },
+  "Fart Gun": {
+    "modType": "Weapon",
+    "modDescription": "A gun that shoots smelly farts",
+    "modAuthor": "Noffie",
+    "modVersion": "7.40",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Fart%20Gun/ButterflyLauncher_FartGun.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflyFartGun-WindowsClient.pak",
+        "hash": "4a972bb2037be32d243bd8580abfdb1bd70dd1df8adf4b9cf7c13f2345b8a24c",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Fart%20Gun/pakchunkButterflyFartGun-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflyFartGun-WindowsClient.sig",
+        "hash": "5dc757fd023395c63ef01679531c126ca7c3dfd6258fdb3e913977442e33e177",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Fart%20Gun/pakchunkButterflyFartGun-WindowsClient.sig"
+      }
+    ]
+  },
   "Mr. Krabs": {
     "modType": "Skin",
     "modDescription": "I love money!!",
@@ -53,6 +53,25 @@
         "fileName": "pakchunkButterflyMrKrabs-WindowsClient.sig",
         "hash": "5dc757fd023395c63ef01679531c126ca7c3dfd6258fdb3e913977442e33e177",
         "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr.%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.sig"
+      }
+    ]
+  },
+  "Spongebob": {
+    "modType": "Skin",
+    "modDescription": "The guy who lives in a pineapple",
+    "modAuthor": "Unknown",
+    "modVersion": "7.40",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Spongebob/ButterflyLauncher_Mod_Spongebob.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflySpongebob-WindowsClient.pak",
+        "hash": "c053fb94283b23da855fb5ebac7093b42c39e4a7cb466d3a7bc8eeaf84f72458",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Spongebob/pakchunkButterflySpongebob-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflySpongebob-WindowsClient.sig",
+        "hash": "4491ce56f04eb014ce4e071993f5e316b6f168a12791d389da311fcda2e2cb07",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Spongebob/pakchunkButterflySpongebob-WindowsClient.sig"
       }
     ]
   },
